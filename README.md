@@ -14,4 +14,5 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devansh-bhargava-3a4182220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devansh-bhargava-3a4182220/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/bdevansh173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bdevansh173/" height="30" width="40" /></a>
 </p>
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devansh173&theme=react-dark)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devansh173&theme=react-dark" alt="Activity Graph">
+
