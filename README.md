@@ -39,7 +39,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevanshBhargava&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devansh173&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -47,12 +47,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DevanshBhargava&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevanshBhargava&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devansh173&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devansh173&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshBhargava&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh173&layout=compact&theme=tokyonight" />
 </p>
 
 ---
