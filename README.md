@@ -1,85 +1,86 @@
-\# 👋 Hey, I'm \*\*Devansh Bhargava\*\*
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi, I'm Devansh Bhargava 👋</h1>
+<h3 align="center">Software Developer | MERN | Python | ML | Automation</h3>
 
-🚀 \*\*Backend Developer | AI Automation Engineer | Microservices | Generative AI | Cloud & DevOps\*\*  
-💡 I build scalable backend systems, intelligent AI workflows, and automation platforms that power businesses.
-
----
-
-\## 🧾 \*\*About Me\*\*
-- 🔧 Backend Developer at \*\*Cymake INC\*\*
-- 🤖 Former \*\*AI Automation Engineer\*\* → built high-throughput workflow automation systems  
-- 🧠 Work with \*\*RAG systems, LLM pipelines, GenAI models, vector DBs\*\*
-- 🏗️ Build \*\*multi-tenant platforms\*\*, microservices (Go + gRPC), and scalable APIs
-- ☁️ Cloud practitioner: \*\*AWS, Docker, Terraform, CI/CD\*\*
-- 🎯 Passionate about automation, backend infra, and AI-powered products  
-- 💻 MERN stack + Python + Golang + Django + Node.js
+<p align="center">
+  <a href="https://github.com/DevanshBhargava">
+    <img src="https://komarev.com/ghpvc/?username=DevanshBhargava&style=flat-square&color=blue" />
+  </a>
+</p>
 
 ---
 
-\## 🏆 \*\*GitHub Trophies\*\*
-\<p align="center"\>
-  \<img src="https://github-profile-trophy.vercel.app/?username=DevanshBhargava\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=15" /\>
-\</p\>
+### 🚀 About Me
+
+- 🔭 Currently working on **AI Automation Workflows & MERN Apps**
+- 🌱 Learning **n8n, Docker, Cloud Infra, System Design**
+- 💡 Interested in **Backend Engineering, ML, and Scalable Systems**
+- 🎵 Fun fact: I’m also a **classical tabla player** and I **roller skate** 🛼  
+- 💬 Ask me about **Python, MERN, ML Models, n8n Automation, Cloud**
 
 ---
 
-\## 📊 \*\*GitHub Stats\*\*
-\<p align="center"\>
-  \<img height="160" src="https://github-readme-stats.vercel.app/api?username=DevanshBhargava\&show_icons=true\&theme=radical" /\>
-  \<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshBhargava\&layout=compact\&theme=radical" /\>
-\</p\>
+### 🛠️ Tech Stack
+
+#### **Languages**
+`Python` • `JavaScript` • `TypeScript` • `C++`
+
+#### **Frameworks & Libraries**
+`React` • `Node.js` • `Express` • `Streamlit` • `LangChain`
+
+#### **Tools & Platforms**
+`Docker` • `AWS` • `Redis` • `MongoDB` • `Git` • `n8n`
+
+#### **AI / ML**
+`OpenAI` • `HuggingFace` • `LLMs` • `Model Training`  
 
 ---
 
-\## 🚀 \*\*Tech Stack\*\*
+### 🏆 GitHub Trophies
 
-\### ⚙️ Backend \& APIs
-\`Python\` · \`Django\` · \`Node.js\` · \`Golang\` · \`gRPC\` · \`REST\` · \`GraphQL\` · \`Microservices\`  
-\`Multi-Tenancy Architecture\`
-
-\### 🤖 AI \& Automation
-\`OpenAI API\` · \`LangChain\` · \`HuggingFace\`  
-\`RAG Pipelines\` · \`Vector DBs (Pinecone, Weaviate, FAISS)\`  
-\`n8n\` · \`Make.com\` · \`Zapier\` · \`GoHighLevel\`  
-\`AI Agents\` · \`Automation Workflows\`
-
-\### ☁️ Cloud \& DevOps
-\`AWS\` · \`S3\` · \`EC2\` · \`Lambda\` · \`CloudWatch\`  
-\`Docker\` · \`Terraform\` · \`CI/CD\` · \`Nginx\`
-
-\### 🗄️ Databases
-\`PostgreSQL\` · \`MySQL\` · \`MongoDB\` · \`Redis\`  
-\`Pinecone\` · \`Weaviate\` · \`FAISS\`
-
-\### 🧰 Other Tools
-\`React\` · \`MERN\` · \`Postman\` · \`Git\` · \`Tailwind\` · \`Pandas\` · \`Matplotlib\`
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevanshBhargava&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-\## 🔥 \*\*Featured Projects\*\*
+### 📈 GitHub Stats
 
-\### ⭐ \*\*Round-Robin Coupon Distribution (MERN + Automation)\*\*
-A coupon distribution platform using MERN + Redis + automation logic.
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DevanshBhargava&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevanshBhargava&theme=tokyonight" />
+</p>
 
-\### ⭐ \*\*Ask The Docs (Streamlit + RAG + Docker + AWS)\*\*
-A fully containerized RAG-based document QnA system deployed on EC2.
-
-\### ⭐ \*\*Multi-Tenant White-Label Platform (Django + Python)\*\*
-Scalable white-label architecture with isolated authentication \& tenant-aware routing.
-
-\### ⭐ \*\*AI-Powered Business Video Generator\*\*
-Automated AI ad-video creation using multiple GenAI models (video + TTS + LLM).
-
-\### ⭐ \*\*Corporate AI Assistant (Go + gRPC Microservices)\*\*
-Distributed microservice system for enterprise AI task execution.
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshBhargava&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-\## 📫 **Connect With Me**
-📧 Email: \*\*devanshbhargava2003@gmail.com\*\*  
-🌐 Portfolio: \_coming soon\_  
-🧑‍💻 LinkedIn: \*(share your link if you want me to add it)\*
+### 🚀 Featured Projects
+
+- 🔹 **Ask the Docs — RAG App**  
+  Built with Streamlit, LangChain, EC2, Docker, Redis.
+
+- 🔹 **Real Estate MERN Website**  
+  Full-stack app with Maps API, Auth0, Cloud deployment.
+
+- 🔹 **Liver Disease Detection ML Model**  
+  Machine learning pipeline for medical prediction.
 
 ---
 
-⭐ \*Thanks for visiting! Feel free to explore my repositories or reach out for collaborations.\*
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/devansh-bhargava">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:devanshbhargava01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
