@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DevanshBhargava">
-    <img src="https://komarev.com/ghpvc/?username=DevanshBhargava&style=flat-square&color=blue" />
+    <img src="https://komarev.com/ghpvc/?username=devansh173&style=flat-square&color=blue" />
   </a>
 </p>
 
