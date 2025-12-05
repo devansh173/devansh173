@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer | MERN | Python | ML | Automation</h3>
 
 <p align="center">
-  <a href="https://github.com/DevanshBhargava">
+  <a href="https://github.com/devansh173">
     <img src="https://komarev.com/ghpvc/?username=devansh173&style=flat-square&color=blue" />
   </a>
 </p>
