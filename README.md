@@ -9,7 +9,7 @@
 <p>
   <a href="https://linkedin.com/in/devansh-bhargava"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:bdevansh173@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/bdevansh173"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  
   <img src="https://komarev.com/ghpvc/?username=devansh173&style=for-the-badge&color=4f46e5&label=PROFILE+VIEWS" />
 </p>
 
